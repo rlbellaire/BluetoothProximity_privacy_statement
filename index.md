@@ -4,7 +4,6 @@ layout: default
 
 
 
-
 Privacy Statement
 ================================
 
