@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+
+
+Privacy Statement
+================================
+
 ### Introduction
 **Bluetooth Proximity** is committed to supporting the privacy of its users. This Privacy Statement explains how we handle and use the information you provide through the use of **Bluetooth Proximity**.  
 
