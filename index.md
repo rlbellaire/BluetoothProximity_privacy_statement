@@ -8,7 +8,7 @@ Privacy Statement
 ================================
 
 ### Introduction
-**Bluetooth Proximity** is committed to supporting the privacy of its users. This Privacy Statement explains how we handle and use the information you provide through the use of **Bluetooth Proximity**.  
+**BluetoothProximity** is committed to supporting the privacy of its users. This Privacy Statement explains how we handle and use the information you provide through the use of **BluetoothProximity**.  
 
 ### What information we collect 
 We collect, use, store and transfer different kinds of information, which we have grouped together as follows:  
