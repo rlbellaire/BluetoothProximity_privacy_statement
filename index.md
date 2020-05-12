@@ -5,7 +5,7 @@ layout: default
 
 
 
-       Privacy Statement
+Privacy Statement
 ================================
 
 ### Introduction
